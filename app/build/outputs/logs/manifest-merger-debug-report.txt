@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:2:1-70:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/47840308ca0c51e39283d5924de6a7fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/400da58df9e3fb0168b18e855afeb91d/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1f89c3f585020f19862c5230851140d6/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/74addf9724f38f50ac933aa20e39cb85/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/9dbcfc34138931b4fc6fa8e6cd8b6918/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/cf67a46235f2c1e74d00e5b773cf442d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/55988273d2bc99274b0ed3d4fd7e0b5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/957095ed6be070e4f72241bb61e79485/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/39de15cbe786e8e4c767dc36250c3bb7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/4d6a8d64d7a01f62c24e4c5f5dd158dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/919de31d5bd966bfa63aa354bb8cafa8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/0f50327e1cb00ba0741a2540d649d846/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/6994a1f0681573c11fff895e46626073/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a8f2a334fdae88e14c3a63ee30e26757/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/be11d48ee7104ab685585113dbe64909/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/ebaee4cf452d2f4543a201be9a559e47/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/51cad76c6a00ccbc9f2a9a7e3ed7fb0a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/7fe8321671964d997c30c1eaf2f33508/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/46102f6c62aa00aa52a6432a8aebad1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/00b2a3a8b79dae1f1dcd2ac13a228788/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/7934878c45640cc4445cf6236ed37380/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/ecbd1aabfbf4a412bb50a96da4e4a3cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/9a3a4325b19657f7833cc46c8c6090b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a01760850bd4bd6f7e6ff33e52d43db4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a5c4f76eb85673dd468f35f733360cfc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/faa5a38829a86e1c27143453fa1aba26/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/be72759a1cb0ee088e12a64ab90a036f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/d27b75da3db58b668e2143dbbcb53597/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:3:11-44
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:5:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:8:5-68:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1f89c3f585020f19862c5230851140d6/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1f89c3f585020f19862c5230851140d6/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/51cad76c6a00ccbc9f2a9a7e3ed7fb0a/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/51cad76c6a00ccbc9f2a9a7e3ed7fb0a/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/7fe8321671964d997c30c1eaf2f33508/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/7fe8321671964d997c30c1eaf2f33508/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/51cad76c6a00ccbc9f2a9a7e3ed7fb0a/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:14:13-39
+	android:label
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:12:13-45
+	android:roundIcon
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:13:13-58
+	android:icon
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:11:13-47
+	android:allowBackup
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:10:13-39
+	android:theme
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:15:13-44
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:9:13-39
+service#com.sasi.servicesamples.jobintentservice.SampleJobIntentService
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:16:9-21:19
+	android:enabled
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:18:17-39
+	android:exported
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:19:17-41
+	android:permission
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:20:17-73
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:17:17-72
+activity#com.sasi.servicesamples.jobintentservice.JobIntentServiceActivity
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:23:9-28:20
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:23:19-76
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:26:27-74
+service#com.sasi.servicesamples.intentServices.IntentServices
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:30:9-33:19
+	android:exported
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:32:17-41
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:31:17-62
+activity#com.sasi.servicesamples.intentServices.IntentServiceActivity
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:35:9-36:20
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:35:19-71
+activity#com.sasi.servicesamples.scheduledjobs.ScheduledJobsActivity
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:37:9-38:20
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:37:19-70
+activity#com.sasi.servicesamples.boundservices.BoundServiceActivity
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:39:9-40:20
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:39:19-69
+activity#com.sasi.servicesamples.backgroundservices.BackgroundServicesActivity
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:41:9-42:20
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:41:19-80
+service#com.sasi.servicesamples.backgroundservices.BackgroundServices
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:44:9-48:19
+	android:enabled
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:46:17-39
+	android:exported
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:47:17-40
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:45:17-70
+service#com.sasi.servicesamples.forgroundservices.ForegroundService
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:49:9-53:19
+	android:enabled
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:51:17-39
+	android:exported
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:52:17-40
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:50:17-68
+service#com.sasi.servicesamples.boundservices.BoundService
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:54:9-58:19
+	android:enabled
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:56:17-39
+	android:exported
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:57:17-40
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:55:17-59
+service#com.sasi.servicesamples.scheduledjobs.ScheduledJobService
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:59:9-62:19
+	android:permission
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:61:17-73
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:60:17-66
+activity#com.sasi.servicesamples.forgroundservices.ForgroundServiceActivity
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:64:9-65:20
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:64:19-77
+activity#com.sasi.servicesamples.MainActivity
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:66:9-67:20
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml:66:19-47
+uses-sdk
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/47840308ca0c51e39283d5924de6a7fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/47840308ca0c51e39283d5924de6a7fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/400da58df9e3fb0168b18e855afeb91d/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/400da58df9e3fb0168b18e855afeb91d/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1f89c3f585020f19862c5230851140d6/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1f89c3f585020f19862c5230851140d6/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/74addf9724f38f50ac933aa20e39cb85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/74addf9724f38f50ac933aa20e39cb85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/9dbcfc34138931b4fc6fa8e6cd8b6918/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/9dbcfc34138931b4fc6fa8e6cd8b6918/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/cf67a46235f2c1e74d00e5b773cf442d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/cf67a46235f2c1e74d00e5b773cf442d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/55988273d2bc99274b0ed3d4fd7e0b5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/55988273d2bc99274b0ed3d4fd7e0b5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/957095ed6be070e4f72241bb61e79485/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/957095ed6be070e4f72241bb61e79485/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/39de15cbe786e8e4c767dc36250c3bb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/39de15cbe786e8e4c767dc36250c3bb7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/4d6a8d64d7a01f62c24e4c5f5dd158dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/4d6a8d64d7a01f62c24e4c5f5dd158dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/919de31d5bd966bfa63aa354bb8cafa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/919de31d5bd966bfa63aa354bb8cafa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/0f50327e1cb00ba0741a2540d649d846/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/0f50327e1cb00ba0741a2540d649d846/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/6994a1f0681573c11fff895e46626073/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/6994a1f0681573c11fff895e46626073/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a8f2a334fdae88e14c3a63ee30e26757/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a8f2a334fdae88e14c3a63ee30e26757/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/be11d48ee7104ab685585113dbe64909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/be11d48ee7104ab685585113dbe64909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/ebaee4cf452d2f4543a201be9a559e47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/ebaee4cf452d2f4543a201be9a559e47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/51cad76c6a00ccbc9f2a9a7e3ed7fb0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/51cad76c6a00ccbc9f2a9a7e3ed7fb0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/7fe8321671964d997c30c1eaf2f33508/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/7fe8321671964d997c30c1eaf2f33508/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/46102f6c62aa00aa52a6432a8aebad1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/46102f6c62aa00aa52a6432a8aebad1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/00b2a3a8b79dae1f1dcd2ac13a228788/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/00b2a3a8b79dae1f1dcd2ac13a228788/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/7934878c45640cc4445cf6236ed37380/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/7934878c45640cc4445cf6236ed37380/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/ecbd1aabfbf4a412bb50a96da4e4a3cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/ecbd1aabfbf4a412bb50a96da4e4a3cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/9a3a4325b19657f7833cc46c8c6090b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/9a3a4325b19657f7833cc46c8c6090b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a01760850bd4bd6f7e6ff33e52d43db4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a01760850bd4bd6f7e6ff33e52d43db4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a5c4f76eb85673dd468f35f733360cfc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a5c4f76eb85673dd468f35f733360cfc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/faa5a38829a86e1c27143453fa1aba26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/faa5a38829a86e1c27143453fa1aba26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/be72759a1cb0ee088e12a64ab90a036f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/be72759a1cb0ee088e12a64ab90a036f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/d27b75da3db58b668e2143dbbcb53597/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/d27b75da3db58b668e2143dbbcb53597/AndroidManifest.xml:20:5-44
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/JetPackSamples/SampleWs/ServicesSample/app/src/main/AndroidManifest.xml
